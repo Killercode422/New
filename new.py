@@ -161,6 +161,3 @@ def main():
 
     print("🚀 Premium Flood Tool Bot is running...")
     app.run_polling()
-
-if __name__ == "__main__":
-    main()ain()
